@@ -1,4 +1,4 @@
-# c-programming--anguage
+# c-programming--language
 C语言学习笔记
 
 1. [第一章 C语言概述及如何运行C程序](./第一章.md)
